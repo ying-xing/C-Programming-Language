@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04880973-dd87-4e4f-a5ef-3a6f4e8724a9": {
+      "ProjectGuid": "04880973-dd87-4e4f-a5ef-3a6f4e8724a9",
+      "DisplayName": "计算n的阶乘",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d39db673-cc9c-4758-b1fd-2f5fab44c71f": {
+      "ProjectGuid": "d39db673-cc9c-4758-b1fd-2f5fab44c71f",
+      "DisplayName": "在一个有序数组中查找具体的某个数字n（二分查找，折半查找）",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

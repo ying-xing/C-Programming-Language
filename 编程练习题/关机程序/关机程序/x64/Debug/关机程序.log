@@ -1,0 +1,5 @@
+﻿  关机程序.c
+D:\000aaazixue\系统学习\C\代码\关机程序\关机程序\关机程序.c(12,8): warning C4013: “system”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\关机程序\关机程序\关机程序.c(16,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\关机程序\关机程序\关机程序.c(17,17): warning C4013: “strcmp”未定义；假设外部返回 int
+  关机程序.vcxproj -> D:\000aaazixue\系统学习\C\代码\关机程序\x64\Debug\关机程序.exe

@@ -1,0 +1,9 @@
+﻿  关机程序.c
+D:\000aaazixue\系统学习\C\代码\关机程序\关机程序\关机程序.c(12,8): warning C4013: “system”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\关机程序\关机程序\关机程序.c(16,6): warning C4013: “gets”未定义；假设外部返回 int
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  关机程序.vcxproj -> D:\000aaazixue\系统学习\C\代码\关机程序\x64\Release\关机程序.exe

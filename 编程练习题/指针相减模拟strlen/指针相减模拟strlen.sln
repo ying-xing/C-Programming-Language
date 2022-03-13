@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针相减模拟strlen", "指针相减模拟strlen\指针相减模拟strlen.vcxproj", "{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Debug|x64.ActiveCfg = Debug|x64
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Debug|x64.Build.0 = Debug|x64
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Debug|x86.ActiveCfg = Debug|Win32
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Debug|x86.Build.0 = Debug|Win32
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Release|x64.ActiveCfg = Release|x64
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Release|x64.Build.0 = Release|x64
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Release|x86.ActiveCfg = Release|Win32
+		{29020ECF-15F8-4F7C-A8C9-994AB8E04EC2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F54EE5-B01B-43B3-8FCE-56547491F0F4}
+	EndGlobalSection
+EndGlobal

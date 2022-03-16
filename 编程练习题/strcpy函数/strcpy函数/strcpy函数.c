@@ -5,6 +5,8 @@
 
 char* My_strcpy(const char* const destintion, const char* source)
 {
+	assert(source != NULL);
+	assert(destintion != NULL);
 	for (char* ret = destintion; *ret++ = *source++; )
 	{
 		;

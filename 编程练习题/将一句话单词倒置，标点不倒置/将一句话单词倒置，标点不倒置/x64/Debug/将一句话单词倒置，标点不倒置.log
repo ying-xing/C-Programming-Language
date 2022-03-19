@@ -1,0 +1,5 @@
+﻿  将一句话单词倒置，标点不倒置.c
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习题\将一句话单词倒置，标点不倒置\将一句话单词倒置，标点不倒置\将一句话单词倒置，标点不倒置.c(22,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习题\将一句话单词倒置，标点不倒置\将一句话单词倒置，标点不倒置\将一句话单词倒置，标点不倒置.c(58,8): warning C4013: “system”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习题\将一句话单词倒置，标点不倒置\将一句话单词倒置，标点不倒置\将一句话单词倒置，标点不倒置.c(24,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  将一句话单词倒置，标点不倒置.vcxproj -> D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习题\将一句话单词倒置，标点不倒置\x64\Debug\将一句话单词倒置，标点不倒置.exe

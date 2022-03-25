@@ -1,0 +1,5 @@
+﻿  统计字符串中每个字符出现的次数.c
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\统计字符串中每个字符出现的次数\统计字符串中每个字符出现的次数\统计字符串中每个字符出现的次数.c(10,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\统计字符串中每个字符出现的次数\统计字符串中每个字符出现的次数\统计字符串中每个字符出现的次数.c(12,18): warning C4013: “strlen”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\统计字符串中每个字符出现的次数\统计字符串中每个字符出现的次数\统计字符串中每个字符出现的次数.c(28,8): warning C4013: “system”未定义；假设外部返回 int
+  统计字符串中每个字符出现的次数.vcxproj -> D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\统计字符串中每个字符出现的次数\x64\Debug\统计字符串中每个字符出现的次数.exe

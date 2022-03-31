@@ -1,0 +1,4 @@
+﻿  main.c
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\指针++实现strcmp函数\指针++实现strcmp函数\main.c(11,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\指针++实现strcmp函数\指针++实现strcmp函数\main.c(35,8): warning C4013: “system”未定义；假设外部返回 int
+  指针++实现strcmp函数.vcxproj -> D:\000aaazixue\系统学习\C\代码\gitee\C-Programming-Language\编程练习\指针++实现strcmp函数\x64\Debug\指针++实现strcmp函数.exe

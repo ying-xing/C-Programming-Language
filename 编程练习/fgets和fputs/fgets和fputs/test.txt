@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("haha");
+	return 0;
+}
+"wq
+£»£ºwq
+;wq
